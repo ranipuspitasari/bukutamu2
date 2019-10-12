@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="net.skb.bukutamu1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Buku Tamu 1</name>
+<widget id="net.skb.bukutamu2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Buku Tamu</name>
     <description>
         Projek Contoh Development App Android
     </description>
